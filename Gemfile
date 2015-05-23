@@ -35,3 +35,6 @@ gem "kramdown", "1.7.0"
 
 # Uglifier - JavaScript minifier
 gem "uglifier", "2.7.1"
+
+# HTTParty
+gem "httparty", "0.13.3"
